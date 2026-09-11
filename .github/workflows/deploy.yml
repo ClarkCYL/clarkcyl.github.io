@@ -33,7 +33,7 @@ jobs:
 
       - name: Install dependencies
         working-directory: my-app/my_website
-        run: npm ci
+        run: npm install
 
       - name: Build and Export Static Site
         working-directory: my-app/my_website
