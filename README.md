@@ -1,2 +1,0 @@
-# clarkcyl.github.io
-Test
